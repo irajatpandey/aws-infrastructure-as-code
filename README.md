@@ -1,1 +1,1 @@
-# aws-infrastructure-as-code
+A comprehensive, production-ready AWS infrastructure baseline built with Terraform. This repository includes reusable modules for core services like VPC, subnets, IAM, EKS, and RDS. It showcases a mature DevOps workflow with remote state management, CI/CD for plan/apply, policy-as-code for security and best practices, and cost estimation. The project also includes documentation on cost management and a strategy for handling infrastructure drift.
